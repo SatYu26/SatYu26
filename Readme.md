@@ -42,6 +42,7 @@
 <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
+
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/satyam-goyal26/">
