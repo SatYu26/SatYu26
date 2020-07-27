@@ -17,7 +17,7 @@
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    I Love Android Development, xD <br>
+    I Love Android Development, xD. <br>
   </em>  
 </p>
 
@@ -36,6 +36,8 @@
 ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&show_icons=true&hide_border=true)
 
 <br>
+
+  ![Dino](https://github.com/SatYu26/SatYu26/blob/master/Assets/dino.gif)
 
   <a href="https://www.linkedin.com/in/satyam-goyal26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
