@@ -17,7 +17,7 @@
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    I Love Android Development, xD. <br>
+    I Love <b>Android Development</b>, xD. <br>
   </em>  
 </p>
 
@@ -33,7 +33,7 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&show_icons=true&hide_border=true)
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true)
 
 <br>
 
