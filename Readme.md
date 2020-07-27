@@ -52,9 +52,6 @@
   </a>
 
 
-  | [<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="Satyam Goyal | Linkedin" width="34">]https://www.linkedin.com/in/satyam-goyal26/) | [<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/satyu.26/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/SatYug26)
-|---|---|---|---|---|---|---|---|
-
 <br><br><br><br>
 
 
