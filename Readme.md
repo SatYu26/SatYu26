@@ -33,9 +33,11 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=tokyonight)
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical)
 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26)]
 
 <br>
 
