@@ -41,7 +41,7 @@
 
 <br>
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
 
 <br>
 
