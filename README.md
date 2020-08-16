@@ -40,12 +40,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)
 
 <br>
-<br>
+<!-- <br>
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-ayyi1781f.vercel.app/api/spotify-playing" alt="SatYu Spotify Playing" width="350" />](https://open.spotify.com/user/SatYu)
+[<img src="https://novatorem-git-master.satyu.vercel.app/api/spotify-playing" alt="SatYu Spotify Playing" width="350" />](https://open.spotify.com/user/SatYu)
 
-<br>
+<br> -->
 
 ### Languages and Tools:
 
