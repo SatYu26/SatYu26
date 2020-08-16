@@ -88,9 +88,13 @@
 
 <br><br><br>
 
-###  :zap: Recent Github Activity
+<details>
+  <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+
+
+</details>
 
 
 
