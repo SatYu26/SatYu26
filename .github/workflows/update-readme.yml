@@ -1,4 +1,4 @@
-name: GitHub - Activity - Readme
+name: Update README
 
 on:
   schedule:
@@ -14,4 +14,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
