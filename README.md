@@ -80,7 +80,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Vanshikagarg17/Face_Recognition/pull/1) in [Vanshikagarg17/Face_Recognition](https://github.com//Vanshikagarg17/Face_Recognition)
+1. undefined
 <!--END_SECTION:activity-->
 
 
