@@ -63,7 +63,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/OpenCV-%23F7D900.svg?&style=style=for-the-badge&?logo=opencollective&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/OpenCV-%23F7D900.svg?&style=style=for-the-badge&?logo=open-collective&logoColor=white" />
 
 
 <br>
