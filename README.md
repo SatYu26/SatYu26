@@ -43,7 +43,7 @@
 
 
 ### Languages and Tools:
-
+<p style="line-height:10px;">
 
 <img align="left" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
@@ -61,7 +61,7 @@
 <img align="left" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
-
+</p>
 
 <br>
 
