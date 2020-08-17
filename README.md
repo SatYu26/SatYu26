@@ -43,7 +43,7 @@
 
 
 ### Languages and Tools:
-<p style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;">
+<p style="margin-left: 2.5em;padding: 5 7em 5em 0;border-width: 2px; border-color: black; border-style:solid;">
 
 <img align="left" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
