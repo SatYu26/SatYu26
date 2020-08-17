@@ -38,6 +38,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/SatYu)
 
 <br>
 
