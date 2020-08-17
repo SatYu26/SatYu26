@@ -43,7 +43,7 @@
 
 
 ### Languages and Tools:
-<p style="line-height:10px;">
+<p style="line-height:30px;">
 
 <img align="left" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
