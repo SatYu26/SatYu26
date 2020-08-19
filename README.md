@@ -81,7 +81,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
