@@ -81,7 +81,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](https://github.com//kautukkundan/Awesome-Profile-README-templates/pull/280) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
+1. 🗣 Commented on [#280](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/280) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
 <!--END_SECTION:activity-->
 
 
