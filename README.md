@@ -81,11 +81,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 2. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 3. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. ❗️ Reopened issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. ❗️ Closed issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
