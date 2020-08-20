@@ -81,10 +81,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com//codeforcauseorg/pledge/pull/79) in [codeforcauseorg/pledge](https://github.com//codeforcauseorg/pledge)
-2. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
-3. ❗️ Closed issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
+2. 💪 Opened PR [#79](https://github.com//codeforcauseorg/pledge/pull/79) in [codeforcauseorg/pledge](https://github.com//codeforcauseorg/pledge)
+3. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
+4. ❗️ Closed issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
