@@ -12,8 +12,8 @@
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
     20 years of living a comical life! <br>
-    Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    <b>Creatives and Photography Lead</b> at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br>
+    <b>I am Your friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
@@ -81,12 +81,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//Vanshikagarg17/Face_Recognition/pull/1) in [Vanshikagarg17/Face_Recognition](https://github.com//Vanshikagarg17/Face_Recognition)
-2. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
-3. 💪 Opened PR [#79](https://github.com//codeforcauseorg/pledge/pull/79) in [codeforcauseorg/pledge](https://github.com//codeforcauseorg/pledge)
-4. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
-5. ❗️ Closed issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
 
 
 
