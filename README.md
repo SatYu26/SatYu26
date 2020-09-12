@@ -18,6 +18,8 @@
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
     I Love <b>Android Development</b>, xD. <br>
+    Visit my Portfolio Website at <a href="https://satyamgoyal.codes/"><b>satyamgoyal.codes</b></a>.<br>
+    Suggestions are always welcome.<br>
   </em>  
 </p>
 
@@ -28,6 +30,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://satyamgoyal.codes/"><b>satyamgoyal.codes</b></a>🌐 and do suggest me how to improve it.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
@@ -81,12 +84,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//Vanshikagarg17/Face_Recognition/pull/1) in [Vanshikagarg17/Face_Recognition](https://github.com//Vanshikagarg17/Face_Recognition)
-2. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
-3. 💪 Opened PR [#79](https://github.com//codeforcauseorg/pledge/pull/79) in [codeforcauseorg/pledge](https://github.com//codeforcauseorg/pledge)
-4. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
-5. ❗️ Closed issue [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+
 
 
 
