@@ -83,6 +83,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com//Vanshikagarg17/Face_Recognition/pull/1) in [Vanshikagarg17/Face_Recognition](https://github.com//Vanshikagarg17/Face_Recognition)
+2. 🗣 Commented on [#283](https://github.com//kautukkundan/Awesome-Profile-README-templates/issues/283) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
+<!--END_SECTION:activity-->
 
 
 
