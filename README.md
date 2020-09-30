@@ -83,7 +83,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/satyam0026/cocktail-ui/pull/1) in [satyam0026/cocktail-ui](https://github.com/satyam0026/cocktail-ui)
+1. 💪 Opened PR [#4](https://github.com/satyam0026/CockTail_UI/pull/4) in [satyam0026/CockTail_UI](https://github.com/satyam0026/CockTail_UI)
 <!--END_SECTION:activity-->
 
 
