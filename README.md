@@ -79,12 +79,10 @@
 
 <br><br>
 
-<details>
+<!-- <details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/satyam0026/website-flutter/pull/4) in [satyam0026/website-flutter](https://github.com/satyam0026/website-flutter)
-<!--END_SECTION:activity-->
 
 
 
@@ -92,7 +90,8 @@
 
 
 
-</details>
+
+</details> -->
 
 
 <br>
