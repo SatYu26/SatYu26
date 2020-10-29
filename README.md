@@ -84,6 +84,12 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com/satyam0026/website-flutter/pull/4) in [satyam0026/website-flutter](https://github.com/satyam0026/website-flutter)
+2. 💪 Opened PR [#3](https://github.com/satyam0026/website-flutter/pull/3) in [satyam0026/website-flutter](https://github.com/satyam0026/website-flutter)
+3. 💪 Opened PR [#2](https://github.com/satyam0026/website-flutter/pull/2) in [satyam0026/website-flutter](https://github.com/satyam0026/website-flutter)
+4. 💪 Opened PR [#1](https://github.com/satyam0026/website-flutter/pull/1) in [satyam0026/website-flutter](https://github.com/satyam0026/website-flutter)
+5. 💪 Opened PR [#4](https://github.com/satyam0026/CockTail_UI/pull/4) in [satyam0026/CockTail_UI](https://github.com/satyam0026/CockTail_UI)
+<!--END_SECTION:activity-->
 
 
 
