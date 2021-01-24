@@ -45,11 +45,10 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="300px" />
 
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&layout=compact&theme=radical&langs_count=4)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&layout=compact&theme=radical)
 
 
 <br>
@@ -78,7 +77,7 @@
   </a>
 
   
-<br>
+<br><br>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -93,7 +92,7 @@
 
 </details>
 
-<br>
+<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
 <!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
