@@ -49,7 +49,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&layout=compact&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&layout=compact&theme=radical&langs_count=4)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="300px" />
 
 
 <br>
