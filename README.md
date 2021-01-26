@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/25) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
-2. 🗣 Commented on [#80](https://github.com/flutter/flutter_clock/issues/80) in [flutter/flutter_clock](https://github.com/flutter/flutter_clock)
-3. 💪 Opened PR [#80](https://github.com/flutter/flutter_clock/pull/80) in [flutter/flutter_clock](https://github.com/flutter/flutter_clock)
-4. ❗️ Opened issue [#671](https://github.com/flutter/samples/issues/671) in [flutter/samples](https://github.com/flutter/samples)
-5. 🗣 Commented on [#384](https://github.com/flutter/samples/issues/384) in [flutter/samples](https://github.com/flutter/samples)
+1. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
+2. 🗣 Commented on [#18](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/18) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
+3. 🗣 Commented on [#25](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/25) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
+4. 🗣 Commented on [#80](https://github.com/flutter/flutter_clock/issues/80) in [flutter/flutter_clock](https://github.com/flutter/flutter_clock)
+5. 💪 Opened PR [#80](https://github.com/flutter/flutter_clock/pull/80) in [flutter/flutter_clock](https://github.com/flutter/flutter_clock)
 <!--END_SECTION:activity-->
 
 
