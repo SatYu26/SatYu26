@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#671](https://github.com/flutter/samples/issues/671) in [flutter/samples](https://github.com/flutter/samples)
-2. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
+1. 🗣 Commented on [#391](https://github.com/flutter/samples/issues/391) in [flutter/samples](https://github.com/flutter/samples)
+2. 🗣 Commented on [#671](https://github.com/flutter/samples/issues/671) in [flutter/samples](https://github.com/flutter/samples)
 3. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
 4. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
-5. 🗣 Commented on [#18](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/18) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
+5. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
 <!--END_SECTION:activity-->
 
 
