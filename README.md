@@ -84,10 +84,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
-2. 🗣 Commented on [#18](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/18) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
-3. 🗣 Commented on [#25](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/25) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
-4. 🗣 Commented on [#80](https://github.com/flutter/flutter_clock/issues/80) in [flutter/flutter_clock](https://github.com/flutter/flutter_clock)
-5. 💪 Opened PR [#80](https://github.com/flutter/flutter_clock/pull/80) in [flutter/flutter_clock](https://github.com/flutter/flutter_clock)
+2. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
+3. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
+4. 🗣 Commented on [#18](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/18) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
+5. 🗣 Commented on [#25](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/issues/25) in [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
 <!--END_SECTION:activity-->
 
 
