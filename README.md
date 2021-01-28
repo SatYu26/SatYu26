@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#683](https://github.com/flutter/samples/issues/683) in [flutter/samples](https://github.com/flutter/samples)
-2. 🎉 Merged PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
-3. 💪 Opened PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
-4. 🗣 Commented on [#678](https://github.com/flutter/samples/issues/678) in [flutter/samples](https://github.com/flutter/samples)
-5. 🗣 Commented on [#678](https://github.com/flutter/samples/issues/678) in [flutter/samples](https://github.com/flutter/samples)
+1. 💪 Opened PR [#687](https://github.com/flutter/samples/pull/687) in [flutter/samples](https://github.com/flutter/samples)
+2. ❗️ Opened issue [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
+3. ❗️ Opened issue [#684](https://github.com/flutter/samples/issues/684) in [flutter/samples](https://github.com/flutter/samples)
+4. ❗️ Opened issue [#683](https://github.com/flutter/samples/issues/683) in [flutter/samples](https://github.com/flutter/samples)
+5. 🎉 Merged PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
 <!--END_SECTION:activity-->
 
 
