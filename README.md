@@ -83,12 +83,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#678](https://github.com/flutter/samples/issues/678) in [flutter/samples](https://github.com/flutter/samples)
-2. 💪 Opened PR [#678](https://github.com/flutter/samples/pull/678) in [flutter/samples](https://github.com/flutter/samples)
-3. 🗣 Commented on [#41](https://github.com/sooxt98/google_nav_bar/issues/41) in [sooxt98/google_nav_bar](https://github.com/sooxt98/google_nav_bar)
-4. 🗣 Commented on [#667](https://github.com/flutter/samples/issues/667) in [flutter/samples](https://github.com/flutter/samples)
-5. 🗣 Commented on [#667](https://github.com/flutter/samples/issues/667) in [flutter/samples](https://github.com/flutter/samples)
-<!--END_SECTION:activity-->
 
 
 
