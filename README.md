@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
-2. 💪 Opened PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
-3. 🗣 Commented on [#678](https://github.com/flutter/samples/issues/678) in [flutter/samples](https://github.com/flutter/samples)
+1. ❗️ Opened issue [#683](https://github.com/flutter/samples/issues/683) in [flutter/samples](https://github.com/flutter/samples)
+2. 🎉 Merged PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
+3. 💪 Opened PR [#1](https://github.com/SatYu26/samples/pull/1) in [SatYu26/samples](https://github.com/SatYu26/samples)
 4. 🗣 Commented on [#678](https://github.com/flutter/samples/issues/678) in [flutter/samples](https://github.com/flutter/samples)
-5. 💪 Opened PR [#678](https://github.com/flutter/samples/pull/678) in [flutter/samples](https://github.com/flutter/samples)
+5. 🗣 Commented on [#678](https://github.com/flutter/samples/issues/678) in [flutter/samples](https://github.com/flutter/samples)
 <!--END_SECTION:activity-->
 
 
