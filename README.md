@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
-2. ❗️ Closed issue [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
-3. 🗣 Commented on [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
-4. 🗣 Commented on [#684](https://github.com/flutter/samples/issues/684) in [flutter/samples](https://github.com/flutter/samples)
-5. 💪 Opened PR [#687](https://github.com/flutter/samples/pull/687) in [flutter/samples](https://github.com/flutter/samples)
+1. 🗣 Commented on [#684](https://github.com/flutter/samples/issues/684) in [flutter/samples](https://github.com/flutter/samples)
+2. ❗️ Reopened issue [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
+3. ❗️ Closed issue [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
+4. 🗣 Commented on [#686](https://github.com/flutter/samples/issues/686) in [flutter/samples](https://github.com/flutter/samples)
+5. 🗣 Commented on [#684](https://github.com/flutter/samples/issues/684) in [flutter/samples](https://github.com/flutter/samples)
 <!--END_SECTION:activity-->
 
 
