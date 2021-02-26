@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Soldy/AMA/issues/3) in [Soldy/AMA](https://github.com/Soldy/AMA)
-2. 🗣 Commented on [#76451](https://github.com/flutter/flutter/issues/76451) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#76432](https://github.com/flutter/flutter/issues/76432) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#76451](https://github.com/flutter/flutter/issues/76451) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#696](https://github.com/flutter/samples/issues/696) in [flutter/samples](https://github.com/flutter/samples)
+1. ❗️ Closed issue [#3](https://github.com/Soldy/AMA/issues/3) in [Soldy/AMA](https://github.com/Soldy/AMA)
+2. 🗣 Commented on [#3](https://github.com/Soldy/AMA/issues/3) in [Soldy/AMA](https://github.com/Soldy/AMA)
+3. 🗣 Commented on [#3](https://github.com/Save-the-code/Github-Contribution-Hack/issues/3) in [Save-the-code/Github-Contribution-Hack](https://github.com/Save-the-code/Github-Contribution-Hack)
+4. 🎉 Merged PR [#2](https://github.com/Save-the-code/Github-Contribution-Hack/pull/2) in [Save-the-code/Github-Contribution-Hack](https://github.com/Save-the-code/Github-Contribution-Hack)
+5. 🗣 Commented on [#1](https://github.com/Save-the-code/Github-Contribution-Hack/issues/1) in [Save-the-code/Github-Contribution-Hack](https://github.com/Save-the-code/Github-Contribution-Hack)
 <!--END_SECTION:activity-->
 
 
