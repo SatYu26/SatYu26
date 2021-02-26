@@ -83,11 +83,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76451](https://github.com/flutter/flutter/issues/76451) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#76432](https://github.com/flutter/flutter/issues/76432) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#76451](https://github.com/flutter/flutter/issues/76451) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#696](https://github.com/flutter/samples/issues/696) in [flutter/samples](https://github.com/flutter/samples)
-5. ❗️ Opened issue [#696](https://github.com/flutter/samples/issues/696) in [flutter/samples](https://github.com/flutter/samples)
+1. ❗️ Opened issue [#3](https://github.com/Soldy/AMA/issues/3) in [Soldy/AMA](https://github.com/Soldy/AMA)
+2. 🗣 Commented on [#76451](https://github.com/flutter/flutter/issues/76451) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#76432](https://github.com/flutter/flutter/issues/76432) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#76451](https://github.com/flutter/flutter/issues/76451) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🗣 Commented on [#696](https://github.com/flutter/samples/issues/696) in [flutter/samples](https://github.com/flutter/samples)
 <!--END_SECTION:activity-->
 
 
