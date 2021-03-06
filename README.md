@@ -60,10 +60,10 @@
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/12520169/satyam-goyal">
-    <img align="left" alt="Satyam Goyal | Stack Overflow" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack.svg" />
+    <img align="left" alt="Satyam Goyal | Stack Overflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://devfolio.co/@SatYu">
-    <img align="left" alt="Satyam Goyal | DevFolio" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dev.png" />
+    <img align="left" alt="Satyam Goyal | DevFolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dev.png" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SatYug26">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
