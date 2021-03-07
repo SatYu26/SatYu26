@@ -81,11 +81,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Algo-Phantoms/Algo-ScriptML/pull/11) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-2. ❗️ Opened issue [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-3. 🗣 Commented on [#2](https://github.com/Save-the-code/Github-Contribution-Hack/issues/2) in [Save-the-code/Github-Contribution-Hack](https://github.com/Save-the-code/Github-Contribution-Hack)
-4. 🗣 Commented on [#2](https://github.com/Save-the-code/Github-Contribution-Hack/issues/2) in [Save-the-code/Github-Contribution-Hack](https://github.com/Save-the-code/Github-Contribution-Hack)
-5. 🎉 Merged PR [#4](https://github.com/Save-the-code/Github-Contribution-Hack/pull/4) in [Save-the-code/Github-Contribution-Hack](https://github.com/Save-the-code/Github-Contribution-Hack)
+1. 💪 Opened PR [#21](https://github.com/geekquad/Image-Processing-OpenCV/pull/21) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+2. ❗️ Opened issue [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+3. 🗣 Commented on [#244](https://github.com/akshitagupta15june/Face-X/issues/244) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+4. 💪 Opened PR [#245](https://github.com/akshitagupta15june/Face-X/pull/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+5. ❗️ Opened issue [#244](https://github.com/akshitagupta15june/Face-X/issues/244) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
 <!--END_SECTION:activity-->
 
 </details>
