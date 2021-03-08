@@ -81,11 +81,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/1) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
-2. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
-3. 💪 Opened PR [#21](https://github.com/geekquad/Image-Processing-OpenCV/pull/21) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-4. ❗️ Opened issue [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-5. 🗣 Commented on [#244](https://github.com/akshitagupta15june/Face-X/issues/244) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+1. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+2. 🗣 Commented on [#1](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/1) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
+3. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+4. 💪 Opened PR [#21](https://github.com/geekquad/Image-Processing-OpenCV/pull/21) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+5. ❗️ Opened issue [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
 <!--END_SECTION:activity-->
 
 </details>
