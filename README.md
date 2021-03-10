@@ -81,9 +81,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/1) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
-2. 🗣 Commented on [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-3. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+1. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+2. ❗️ Closed issue [#1](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/1) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
+3. 🗣 Commented on [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
 4. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
 5. 🗣 Commented on [#245](https://github.com/akshitagupta15june/Face-X/issues/245) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
 <!--END_SECTION:activity-->
