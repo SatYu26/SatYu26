@@ -81,9 +81,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-2. 🗣 Commented on [#312](https://github.com/PalisadoesFoundation/talawa/issues/312) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-3. 🗣 Commented on [#11](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/11) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+1. ❗️ Opened issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
+2. ❗️ Closed issue [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+3. 🗣 Commented on [#312](https://github.com/PalisadoesFoundation/talawa/issues/312) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
 4. 🗣 Commented on [#11](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/11) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
 5. 🗣 Commented on [#11](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/11) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
 <!--END_SECTION:activity-->
