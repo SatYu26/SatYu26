@@ -81,11 +81,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-2. ❗️ Opened issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-3. ❗️ Closed issue [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-4. 🗣 Commented on [#312](https://github.com/PalisadoesFoundation/talawa/issues/312) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-5. 🗣 Commented on [#11](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/11) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+1. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+2. 🗣 Commented on [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
+3. ❗️ Opened issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
+4. ❗️ Closed issue [#10](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/10) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+5. 🗣 Commented on [#312](https://github.com/PalisadoesFoundation/talawa/issues/312) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
 <!--END_SECTION:activity-->
 
 </details>
