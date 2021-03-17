@@ -81,19 +81,12 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-2. ❗️ Closed issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-3. 💪 Opened PR [#85](https://github.com/geekquad/Image-Processing-OpenCV/pull/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-4. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-5. 🗣 Commented on [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-<!--END_SECTION:activity-->
 
 </details>
 
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SatYu26" alt="SatYu26" /> </p>
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
 
 <!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
