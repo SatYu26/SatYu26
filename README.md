@@ -81,11 +81,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-2. 💪 Opened PR [#85](https://github.com/geekquad/Image-Processing-OpenCV/pull/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-3. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-4. 🗣 Commented on [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
-5. ❗️ Opened issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
+1. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+2. ❗️ Closed issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
+3. 💪 Opened PR [#85](https://github.com/geekquad/Image-Processing-OpenCV/pull/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+4. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+5. 🗣 Commented on [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
 <!--END_SECTION:activity-->
 
 </details>
