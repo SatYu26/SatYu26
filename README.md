@@ -82,10 +82,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#117](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/117) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-2. 🎉 Merged PR [#2](https://github.com/SatYu26/Mflix-Using-MongoDB/pull/2) in [SatYu26/Mflix-Using-MongoDB](https://github.com/SatYu26/Mflix-Using-MongoDB)
-3. 🎉 Merged PR [#1](https://github.com/SatYu26/URL-Shortener/pull/1) in [SatYu26/URL-Shortener](https://github.com/SatYu26/URL-Shortener)
-4. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-5. ❗️ Closed issue [#321](https://github.com/PalisadoesFoundation/talawa/issues/321) in [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa)
+2. 🗣 Commented on [#117](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/117) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+3. 🎉 Merged PR [#2](https://github.com/SatYu26/Mflix-Using-MongoDB/pull/2) in [SatYu26/Mflix-Using-MongoDB](https://github.com/SatYu26/Mflix-Using-MongoDB)
+4. 🎉 Merged PR [#1](https://github.com/SatYu26/URL-Shortener/pull/1) in [SatYu26/URL-Shortener](https://github.com/SatYu26/URL-Shortener)
+5. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
 <!--END_SECTION:activity-->
 
 </details>
