@@ -81,11 +81,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/geekquad/Image-Processing-OpenCV/issues/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-2. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-3. 🗣 Commented on [#117](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/117) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-4. 🎉 Merged PR [#2](https://github.com/SatYu26/Mflix-Using-MongoDB/pull/2) in [SatYu26/Mflix-Using-MongoDB](https://github.com/SatYu26/Mflix-Using-MongoDB)
-5. 🎉 Merged PR [#1](https://github.com/SatYu26/URL-Shortener/pull/1) in [SatYu26/URL-Shortener](https://github.com/SatYu26/URL-Shortener)
+1. 💪 Opened PR [#144](https://github.com/geekquad/Image-Processing-OpenCV/pull/144) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+2. ❌ Closed PR [#85](https://github.com/geekquad/Image-Processing-OpenCV/pull/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+3. 🗣 Commented on [#85](https://github.com/geekquad/Image-Processing-OpenCV/issues/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+4. 🗣 Commented on [#85](https://github.com/geekquad/Image-Processing-OpenCV/issues/85) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
+5. 🗣 Commented on [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
 <!--END_SECTION:activity-->
 
 </details>
