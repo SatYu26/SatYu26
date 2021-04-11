@@ -56,7 +56,7 @@
 
   <a href="https://satyamgoyal.codes">
     <img align="left" alt="Satyam Goyal | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+  <a href="https://www.linkedin.com/in/satyu26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/12520169/satyam-goyal">
