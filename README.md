@@ -23,10 +23,11 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Android Development** and **Web Development** With **Flutter**💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **Node.js**💪 and working on **Data Structures** and **Algorithm**👨‍💻.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m _looking to collaborate_ on **Machine Learning & Python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Android Development** and **Web Development** With **Flutter**💪 and **React**.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **MERN**💪 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I love making **React** and **Flutter** Projects👨‍💻 the most.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I have interest **Machine Learning** and **Open CV**🌐 also.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m _open for collaboration_ on **Any kind of projects**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://satyamgoyal.codes/"><b>satyamgoyal.codes</b></a>👨‍💻 and do suggest me how to improve it.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴
@@ -65,6 +66,9 @@
   <a href="https://devfolio.co/@SatYu">
     <img align="left" alt="Satyam Goyal | DevFolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dev.png" />
   </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/satyu/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
+  </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SatYug26">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
@@ -74,6 +78,9 @@
   <a href="mailto:goyalsatyam8@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/15KasRRF-dGRDHHxTLptFjMCZBk37zIUe/view?usp=sharing">
+    <img align="left" alt="Satyam Goyal | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+  </a> &nbsp;&nbsp;
 
 <br><br>
 
@@ -81,12 +88,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/2) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
-2. ❗️ Closed issue [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-3. 🗣 Commented on [#144](https://github.com/geekquad/Image-Processing-OpenCV/issues/144) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-4. 🗣 Commented on [#2](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/2) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
-5. 🗣 Commented on [#144](https://github.com/geekquad/Image-Processing-OpenCV/issues/144) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-<!--END_SECTION:activity-->
 
 </details>
 
