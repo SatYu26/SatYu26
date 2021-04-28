@@ -86,13 +86,7 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/2) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
-2. ❗️ Closed issue [#20](https://github.com/geekquad/Image-Processing-OpenCV/issues/20) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-3. 🗣 Commented on [#144](https://github.com/geekquad/Image-Processing-OpenCV/issues/144) in [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/Image-Processing-OpenCV)
-4. 🗣 Commented on [#2](https://github.com/SatYu26/Portfolio-Code-Flutter/issues/2) in [SatYu26/Portfolio-Code-Flutter](https://github.com/SatYu26/Portfolio-Code-Flutter)
-<!--END_SECTION:activity-->
+
 
 </details>
 
