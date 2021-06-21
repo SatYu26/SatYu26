@@ -60,6 +60,9 @@
   <a href="https://www.linkedin.com/in/satyu26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
+  <a href="https://developers.google.com/profile/u/101876753707089740011">
+    <img align="left" alt="Satyam Goyal | Google" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/google.png" />
+  </a> &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/12520169/satyam-goyal">
     <img align="left" alt="Satyam Goyal | Stack Overflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack.svg" />
   </a> &nbsp;&nbsp;
@@ -87,6 +90,7 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
+  <!--START_SECTION:activity-->
 
 </details>
 
