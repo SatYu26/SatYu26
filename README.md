@@ -15,7 +15,7 @@
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    Visit my Portfolio Website at <a href="https://satyamgoyal.codes/"><b>satyamgoyal.codes</b></a>.<br>
+    Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>.<br>
     I Love <b>Android Development</b>, xD. <br>
   </em>  
 </p>
@@ -55,7 +55,7 @@
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://satyamgoyal.codes">
+  <a href="https://satyamgoyal.social">
     <img align="left" alt="Satyam Goyal | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
   <a href="https://www.linkedin.com/in/satyu26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
