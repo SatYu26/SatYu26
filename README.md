@@ -23,10 +23,9 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Android Development** and **Web Development** With **Flutter**💪 and **React**❤️.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **MERN**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I love making **React** and **Flutter** Projects👨‍💻 the most.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I have interest in **Machine Learning**🤖 and **Open CV**🌐 also.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **MERN Stack** and **Backend Development** and **Bit of Data Science**💪 and **ML**❤️.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **DevOps**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I love making **MERN** and **ML** Projects👨‍💻 the most.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>👨‍💻 and do suggest me how to improve it.
@@ -72,7 +71,7 @@
   <a href="https://leetcode.com/satyu/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
+  <a href="https://twitter.com/SatyuGoyal">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/s.a.t.y.u_/">
