@@ -16,7 +16,7 @@
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
     Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>.<br>
-    I Love <b>Android Development</b>, xD. <br>
+    I Love <b>Web, Cloud and Android Development</b>, xD. <br>
   </em>  
 </p>
 
@@ -59,7 +59,13 @@
   <a href="https://www.linkedin.com/in/satyu26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://developers.google.com/profile/u/101876753707089740011">
+  <a href="https://leetcode.com/satyu/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SatyuGoyal">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://g.dev/SatYu">
     <img align="left" alt="Satyam Goyal | Google" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/google.png" />
   </a> &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/12520169/satyam-goyal">
@@ -67,12 +73,6 @@
   </a> &nbsp;&nbsp;
   <a href="https://devfolio.co/@SatYu">
     <img align="left" alt="Satyam Goyal | DevFolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dev.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://leetcode.com/satyu/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatyuGoyal">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/s.a.t.y.u_/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
