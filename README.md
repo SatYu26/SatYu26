@@ -82,6 +82,11 @@ I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#139](https://github.com/Opentek-Org/opentek/issues/139) in [Opentek-Org/opentek](https://github.com/Opentek-Org/opentek)
+2. 💪 Opened PR [#138](https://github.com/Opentek-Org/opentek/pull/138) in [Opentek-Org/opentek](https://github.com/Opentek-Org/opentek)
+3. 🗣 Commented on [#136](https://github.com/Opentek-Org/opentek/issues/136) in [Opentek-Org/opentek](https://github.com/Opentek-Org/opentek)
+4. 🗣 Commented on [#1180](https://github.com/activeloopai/Hub/issues/1180) in [activeloopai/Hub](https://github.com/activeloopai/Hub)
+<!--END_SECTION:activity-->
 
 </details>
 
