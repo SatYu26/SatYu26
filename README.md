@@ -6,19 +6,11 @@
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
-<p>
-  <em>
-    I am a Final Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
-    20 years of living a comical life! <br>
-    <b>Creatives and Photography Lead</b> at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a> from June 2019 to July 2021<br>
-    <b>I am Your friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>.<br>
-    I Love <b>Web, Cloud and Android Development</b>, xD. <br>
-  </em>  
-</p>
+<h2>About me</h2>
+
+I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and Guiding students for successful career in Tech. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.  
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.  
+💬 Ask me anything, I will be more than happy to help :D
 
 <br>
 
@@ -88,8 +80,8 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-
-  <!--START_SECTION:activity-->
+  
+<!--START_SECTION:activity-->
 
 </details>
 
