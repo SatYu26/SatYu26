@@ -8,9 +8,11 @@
 
 <h2>About me</h2>
 
+<p>
 I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and Guiding students for successful career in Tech. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.  
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.  
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains. New technologies get me very excited and awakens my insect to learn it :).  
 💬 Ask me anything, I will be more than happy to help :D
+</p>
 
 <br>
 
