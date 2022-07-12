@@ -1,30 +1,30 @@
-# Satyam Goyal&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Satyam Goyal
 
 <!--
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26)
 -->
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+### Hello world!
 
 <h2>About me</h2>
 
 <p>
-I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and Guiding students for successful career in Tech. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.  
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains. New technologies get me very excited and awakens my insect to learn it :).  
-💬 Ask me anything, I will be more than happy to help :D
+I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and Guiding students toward a successful career in Tech. I am very keen to learn new technologies and use them to either create something useful or improve the existing software.  
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains. New technologies get me very excited and awaken my insect to learn it :).  
+💬 Ask me anything, and I will be more than happy to help :D
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **MERN Stack** and **Backend Development** and **Bit of Data Science**💪 and **ML**❤️.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **DevOps**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I love making **MERN** and **ML** Projects👨‍💻 the most.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>👨‍💻 and do suggest me how to improve it.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*😎 lies in my _laziness_ 😴
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- I’m **good** in **MERN Stack** and **Backend Development** and **Bit of Data Science**💪 and **ML**❤️.
+- Currently Learning **DevOps**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
+- I love making **MERN** and **ML** Projects👨‍💻 the most.
+- I’m *open for collaboration*🧠 on **Any kind of projects**.
+- _Ask me_ about **why do I think aliens 👽 exist.**
+- Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>👨‍💻 and do suggest me how to improve it.
+- **Fun fact:** My *smartness*😎 lies in my _laziness_ 😴
+- Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
   <br>
 
 ## Spotify Playing 🎧
