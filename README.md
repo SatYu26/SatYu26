@@ -10,6 +10,7 @@
 
 <p>
 I'm a Senior Software Engineer with 3+ years of experience building scalable fintech systems end-to-end. Most recently, I’ve been a founding engineer at ANQ Finance, where I helped scale the platform to over 2M users. My background includes work in Node.js, Deno, PostgreSQL, cloud infrastructure (GCP/Azure), DevOps, and microservices — with a strong focus on clean APIs and system design.
+    
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains. New technologies get me very excited and awaken my insect to learn it :).  
 💬 Ask me anything, and I will be more than happy to help :D
 </p>
