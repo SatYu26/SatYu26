@@ -9,7 +9,7 @@
 <h2>About me</h2>
 
 <p>
-I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and Guiding students toward a successful career in Tech. I am very keen to learn new technologies and use them to either create something useful or improve the existing software.  
+I'm a Senior Software Engineer with 3+ years of experience building scalable fintech systems end-to-end. Most recently, I’ve been a founding engineer at ANQ Finance, where I helped scale the platform to over 2M users. My background includes work in Node.js, Deno, PostgreSQL, cloud infrastructure (GCP/Azure), DevOps, and microservices — with a strong focus on clean APIs and system design.
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains. New technologies get me very excited and awaken my insect to learn it :).  
 💬 Ask me anything, and I will be more than happy to help :D
 </p>
@@ -17,19 +17,12 @@ I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and 
 <br>
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- I’m **good** in **MERN Stack** and **Backend Development** and **Bit of Data Science**💪 and **ML**❤️.
-- Currently Learning **DevOps**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
-- I love making **MERN** and **ML** Projects👨‍💻 the most.
 - I’m *open for collaboration*🧠 on **Any kind of projects**.
 - _Ask me_ about **why do I think aliens 👽 exist.**
-- Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>👨‍💻 and do suggest me how to improve it.
-- **Fun fact:** My *smartness*😎 lies in my _laziness_ 😴
+- Visit my Portfolio Website at <a href="https://satyu26.github.io/"><b>satyu26.github.io</b></a>👨‍💻 and do suggest me how to improve it.
+- **Fun fact:** My *smartness*😎 lies in my _discipline_.
 - Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
   <br>
-
-## Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 
 <br>
 
@@ -39,16 +32,9 @@ I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and 
 
 <br>
 
-## Languages and Tools:
-
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
-
-<br>
-<!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" alt="Developer" style="float: left;" width="700px"> -->
-
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://satyamgoyal.social">
+  <a href="https://satyu26.github.io">
     <img align="left" alt="Satyam Goyal | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
   <a href="https://www.linkedin.com/in/satyu26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -65,38 +51,16 @@ I am Satyam Goyal, Upcoming SDE and Part-time working as a Developer Mentor and 
   <a href="https://stackoverflow.com/users/12520169/satyam-goyal">
     <img align="left" alt="Satyam Goyal | Stack Overflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://devfolio.co/@SatYu">
-    <img align="left" alt="Satyam Goyal | DevFolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dev.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/s.a.t.y.u_/">
+  <a href="https://www.instagram.com/satyam.goyal_/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
+  <a href="mailto:satyamgoyal008@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/15KasRRF-dGRDHHxTLptFjMCZBk37zIUe/view?usp=sharing">
     <img align="left" alt="Satyam Goyal | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
   </a> &nbsp;&nbsp;
 
-<br><br>
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#4766](https://github.com/twilio-labs/open-pixel-art/pull/4766) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
-2. ❗️ Opened issue [#139](https://github.com/Opentek-Org/opentek/issues/139) in [Opentek-Org/opentek](https://github.com/Opentek-Org/opentek)
-3. 💪 Opened PR [#138](https://github.com/Opentek-Org/opentek/pull/138) in [Opentek-Org/opentek](https://github.com/Opentek-Org/opentek)
-<!--END_SECTION:activity-->
-
-
-</details>
+<br>
 
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
-
-<!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
-![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
-
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
