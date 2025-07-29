@@ -28,8 +28,6 @@ I'm a Senior Software Engineer with 3+ years of experience building scalable fin
 
 <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&layout=compact&theme=radical)
-
 <br>
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
@@ -60,7 +58,3 @@ I'm a Senior Software Engineer with 3+ years of experience building scalable fin
   <a href="https://drive.google.com/file/d/15KasRRF-dGRDHHxTLptFjMCZBk37zIUe/view?usp=sharing">
     <img align="left" alt="Satyam Goyal | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
   </a> &nbsp;&nbsp;
-
-<br>
-
-<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
